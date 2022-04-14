@@ -1,2 +1,3 @@
 # Fun_with_colors
-Basic code for observing how R G B values impact colors.
+
+Color_Mixer.py is a basic code for observing how R G B values impact colors.
